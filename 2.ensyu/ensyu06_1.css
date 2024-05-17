@@ -1,0 +1,32 @@
+header{
+  background-color: blue;
+}
+nav{
+  background-color: yellow;
+  float: left;
+  width: 30%;
+  height: 200px
+}
+
+#art2{
+  background-color: green;
+  float: right;
+  width:  70%;
+  height: 200px;
+}
+a :link{
+  color: black;
+  opacity: 0.6;
+  border-style: solid;
+  color: red;
+}
+.btn{
+  display: inline-block;
+  
+
+}
+footer{
+  clear: both;
+  background-color: grey;
+  height: 50px;
+}
